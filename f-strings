@@ -1,0 +1,6 @@
+my_cwa=77
+inWinnig=True
+my_cwa+=5
+print(my_cwa)
+#  f-strings
+print(f"my new cwa will be {my_cwa} by the grace of God and is {inWinnig}")
